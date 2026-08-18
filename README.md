@@ -38,10 +38,12 @@ Que ai toda vez que o usuário digitar, por exemplo, `mkdir Teste` o shell irá 
 
 Sem o SeeShell:
 `mkdir teste`
+
 Saída:
 
 Com o SeeShell:
 `mkdir teste`
+
 Saída:
 mkdir: created directory 'teste'
 
