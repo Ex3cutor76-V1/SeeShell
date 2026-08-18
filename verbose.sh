@@ -6,7 +6,7 @@ echo "Organizando aliases..."
 
 cat << 'EOF' >> ~/.bashrc
 # ----------------------------------
-# Aliases do Verbose Mode
+# Aliases do SeeShell
 # ----------------------------------
 
 alias mkdir='mkdir -v'
@@ -21,9 +21,6 @@ alias chown='chown -v'
 alias chgrp='chgrp -v'
 alias tar='tar -v'
 alias rsync='rsync -v'
-alias ssh='ssh -v'
-alias sftp='sftp -v'
-alias scp='scp -v'
 alias mount='mount -v'
 alias umount='umount -v'
 alias head='head -v'
