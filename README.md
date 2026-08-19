@@ -19,6 +19,7 @@ implementados no shell.
 | `rsync` | `rsync -v` | Mostra a sincronização de arquivos |
 | `head` | `head -v` | Mostra o inicio do conteúdo de um arquivo |
 | `tail` | `tail -v` | Mostra o final do conteúdo de um arquivo |
+| `install` | `install -v` | Mostra o arquivo copiado para um destino deixando permissões, proprietários/grupo e diretórios preparados |
 
 ## Shells compatíveis 
 * Bash
